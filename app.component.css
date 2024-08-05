@@ -1,0 +1,11 @@
+mat-list-item {
+    cursor: pointer;
+  }
+  
+  mat-list-item mat-icon {
+    margin-right: 8px; /* Space between icon and text */
+  }
+  
+  .logout-text {
+    margin-left: 8px; /* Space between icon and text */
+  }
